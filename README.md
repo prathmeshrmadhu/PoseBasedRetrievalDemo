@@ -2,7 +2,7 @@
 
 This repository contains the source code for the  **Pose-Based Retrueval Demo** developed at the [Computer Vision Group](https://lme.tf.fau.de/research/research-groups/computer-vision/) from the University of Erlangen-Nuremberg.
 
-![Demos](imgs/ecosystem.png)
+![Demos](imgs/dummy_ecosystem.jpg)
 
 ## Contents
 
