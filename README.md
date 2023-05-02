@@ -1,6 +1,6 @@
 # Pose Based Image Retrieval
 
-This repository contains the source code for the  **Pose-Based Retrueval Demo** developed at the [Computer Vision Group](https://lme.tf.fau.de/research/research-groups/computer-vision/) from the University of Erlangen-Nuremberg.
+This repository contains the source code for the  **Pose-Based Retrieval Demo** developed at the [Computer Vision Group](https://lme.tf.fau.de/research/research-groups/computer-vision/) from the University of Erlangen-Nuremberg.
 
 ![Demos](imgs/demo_ecosystem.PNG)
 
