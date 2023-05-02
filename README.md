@@ -23,7 +23,7 @@ This web-app contains several *demos*, in which we demonstrate of research and a
 To get the code, fork the repository or clone it using the following command:
 
 ```
-  git clone https://github.com/angelvillar96/PoseBasedRetrievalDemo.git
+  git clone https://github.com/prathmeshrmadhu/PoseBasedRetrievalDemo.git
 ```
 
 ## Structure
