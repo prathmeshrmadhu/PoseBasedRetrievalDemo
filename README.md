@@ -53,10 +53,11 @@ Coming Soon
 ## Change Log
 
  - (23.10.2020) First running version of the ecosystem. *Pose-based retrieval* demo deployed.
+ - Introduced the HRNet module
 
 
 ## Contact
 
-This project was developed by [Angel Villar-Corrales](http://angelvillarcorrales.com/templates/home.php)
+This project was developed at Pattern Recognition Lab, Erlangen.
 
-In case of any questions or problems regarding the project or repository, do not hesitate to contact me at angelvillarcorrales@gmail.com.
+In case of any questions or problems regarding the project or repository, do not hesitate to contact me at prathmesh.madhu@fau.de.
